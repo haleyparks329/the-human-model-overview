@@ -103,7 +103,7 @@ I am interested in data when it helps people better understand themselves, impro
 
 The Human Model is a place to explore that idea technically: how to capture meaningful human signals, turn them into useful models, and eventually create adaptive systems that support better recovery, movement, and performance decisions.
 
-## Recruiter / Employer Notes
+## What This Project Demonstrates
 
 This repo is intended to show:
 
